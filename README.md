@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ejajahmad
-- 👀 I’m interested in ...JavaScript, Web Development and Angular (Which I hate it at the same time)
-- 🌱 I’m currently learning ...JavaScript, Angular and React.
+- 👀 I’m a JavaScript, React and Nodejs Developer.
+- 🌱 I’m currently learning ...Angular and C#.
 - 💞️ I’m looking to collaborate on ... Project that include any of my skills.
 - 📫 How to reach me ... just email me at ajasaifi2018@gmail.com
 
